@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I'm Riwaaz 👋
+
+![RiwiKiwi's Stats](https://github-readme-stats.vercel.app/api?username=RiwiKiwi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 
 <!--
 **RiwiKiwi/RiwiKiwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
