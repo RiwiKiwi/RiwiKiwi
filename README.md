@@ -1,5 +1,5 @@
 ## Hi there, I'm Riwaaz 👋
-  <h3>Languages and tools</h3>
+  <h3>Languages and tools that I worked with until now </h3>
     <p>
     &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40" />
     &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40" />
