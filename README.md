@@ -8,8 +8,6 @@
     &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="Typescript" width="40" height="40" />
     &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40" />
     &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40" />
-      
-    </p>
 </br>
 
 ![Total Visitors](https://komarev.com/ghpvc/?username=RiwiKiwi&color=blue&style=flat-square)
