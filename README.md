@@ -9,7 +9,7 @@
     &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40" />
     &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40" />
     &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" title="Latex" width="40" height="40" />
-      
+    &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" width="40" height="40" />
 </br>
 
 ![Total Visitors](https://komarev.com/ghpvc/?username=RiwiKiwi&color=blue&style=flat-square)
