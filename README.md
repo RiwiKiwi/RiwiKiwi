@@ -16,6 +16,8 @@
       &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" title="Latex" width="40" height="40" />
       &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL / SQL" width="40" height="40"/>
       &emsp;<img src="https://www.sqlite.org/images/sqlite370_banner.gif" title="SQLite" width="80" height="40"/>
+      &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>
+
 
   <div align="left">
     <img src="https://streak-stats.demolab.com?user=RiwiKiwi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
