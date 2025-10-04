@@ -1,6 +1,6 @@
 ## Hi there, I'm Riwaaz 👋
 <div>
-    <h3>Languages that I worked with until now </h3>
+    <h3>Languages that I have worked with until now </h3>
       <p>
       &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40" />
       &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="40" height="40"/>
@@ -11,7 +11,7 @@
       &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="Typescript" width="40" height="40" />
       &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" width="40" height="40" />
       &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40" />
-    <h3>Tools & Frameworks that I worked with until now </h3>
+    <h3>Tools & Frameworks that I have worked with until now </h3>
       &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40" />
       &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40" />
       &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" title="Latex" width="40" height="40" />
