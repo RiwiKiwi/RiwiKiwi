@@ -5,8 +5,6 @@
       &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40" />
       &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="40" height="40"/>
       &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40" />
-      &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="Html" width="40" height="40" />
-      &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>
       &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" />
       &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="Typescript" width="40" height="40" />
       &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" width="40" height="40" />
@@ -17,6 +15,8 @@
       &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" title="Latex" width="40" height="40" />
       &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL / SQL" width="40" height="40"/>
       &emsp;<img src="https://www.sqlite.org/images/sqlite370_banner.gif" title="SQLite" width="80" height="40"/>
+      &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="Html" width="40" height="40" />
+      &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>
       &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>
 
 
